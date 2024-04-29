@@ -1,6 +1,5 @@
 LLaMA 3 QA Bot
 ================
-<a href="https://github.com/your-username/LLaMA-3-QA-Bot"><img src="https://img.shields.io/badge/LLaMA-3-QA-Bot-v1.0.0-blue.svg"></a>
 
 This repository contains a Python script that uses the Hugging Face Transformers library and the LLaMA 3 model to generate answers to user questions. The script uses a chat template to generate a conversation between a user and a teacher, where the user asks the teacher to explain SQL joins with examples.
 
@@ -17,7 +16,7 @@ Installation
 ------------
 
 1. **Install the required libraries** by running `pip install -r requirements.txt`
-2. **Run the script** using `python script.py`
+2. **Run the script** using `python llama3.py`
 
 Script
 ------
